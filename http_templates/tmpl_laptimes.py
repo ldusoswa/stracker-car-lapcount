@@ -277,6 +277,27 @@ function applySelections() {
         </div>
     </div>
     </div>
+     <!-- <div class="row">
+            <div class="col-md-12">
+                <table class="table table-striped table-condensed table-bordered table-hover">
+                    <thead>
+                        <tr>
+                            <th>Car</th>
+                            <th>Valid Laps Completed</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <!-- loop through the cars -->
+                        TODO - steps to get this working
+                        1. output list of cars on server
+                        2. output number of valid laps for each car (total only, no dates involved)
+                        3. implement date (show cars since xx/yy/zzzz)
+                        4. show only the active cars
+                        5. show invalid laps also (for shits and giggles)
+                     </tbody>
+                </table>
+            </div>
+      </div> -->
     <div class="row"><div class="col-md-12">
         <table class="table table-striped table-condensed table-bordered table-hover">
             <thead>
@@ -787,4 +808,3 @@ $('[data-toggle="tooltip"]').tooltip({
 });
 </script>
 """)
-
