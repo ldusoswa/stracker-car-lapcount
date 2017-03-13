@@ -289,7 +289,7 @@ function applySelections() {
                      <tbody>
                         <!-- loop through the cars -->
                         TODO - steps to get this working
-                        1. output list of cars on server
+                        1. output list of cars on server (use currcars?)
                         2. output number of valid laps for each car (total only, no dates involved)
                         3. implement date (show cars since xx/yy/zzzz)
                         4. show only the active cars
